@@ -11,16 +11,16 @@ pip3 install -r requirements.txt
 When you are finished with your virtual environment, you can deactivate it using the following command: `deactivate` if you want to come back and use it again, you can reenable the virtual environment using `source rsgb/bin/activate`
 
 ### Slide 4: Let's Get Started
-- helloworld.py
-- helloflask.py
-- browser.py
-- withRequests.py
+- <a href="./helloworld.py">helloworld.py</a>
+- <a href="./helloflask.py">helloflask.py</a>
+- <a href="./browser.py">browser.py</a>
+- <a href="./withRequests.py">withRequests.py</a>
 
 ### Slide 7: Lets do something useful
-- rotateflask.py
+- <a href="./rotateflask.py">rotateflask.py</a>
 
 ### Slide 11: Utilising supplied binaries
-- flirc.py
+- <a href="./flirc.py">flirc.py</a>
 
 ### Slide 12: Controlling IC-9700 via serial port
 - https://github.com/stevendodd/pycom
@@ -29,11 +29,11 @@ When you are finished with your virtual environment, you can deactivate it using
 - https://github.com/stevendodd/RC28Server
 
 ### Slide 14: Programming with GPIO
-- rtty.py
+- <a href="./rtty.py">rtty.py</a>
 - https://github.com/stevendodd/naki
 
 ### Slide 18: Hamlib rigctl python client
-- rigctl.py
+- <a href="./rigctl.py">rigctl.py</a>
 
 ### Slide 20: Hamlib rotctld server in Python
 - https://github.com/stevendodd/rotctlpy/blob/main/rotator.py#L92
@@ -42,7 +42,7 @@ When you are finished with your virtual environment, you can deactivate it using
 - <a href="./hamsat.py">hamsat.py</a>  (requires you to add your hamsat token in a seperate file hamsat.token)
 
 ### Slide 23: Callsign look up
-- hamqth.py  (requires you to add your hamqth password in a seperate file hamsat.password)
+- <a href="./hamqth.py">hamqth.py</a>  (requires you to add your hamqth password in a seperate file hamsat.password)
 
 ### Extra
-- qrz.py  download your QRZ log file using API (requires you to add your QRZ token in a separate file qrz.token)
+- <a href="./qrz.py">qrz.py</a>  download your QRZ log file using API (requires you to add your QRZ token in a separate file qrz.token)
