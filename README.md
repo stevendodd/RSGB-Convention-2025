@@ -39,7 +39,7 @@ When you are finished with your virtual environment, you can deactivate it using
 - https://github.com/stevendodd/rotctlpy/blob/main/rotator.py#L92
 
 ### Slide 22: Json based website APIs
-- <a href="./src/branch/main/hamsat.py">hamsat.py</a>  (requires you to add your hamsat token in a seperate file hamsat.token)
+- <a href="./hamsat.py">hamsat.py</a>  (requires you to add your hamsat token in a seperate file hamsat.token)
 
 ### Slide 23: Callsign look up
 - hamqth.py  (requires you to add your hamqth password in a seperate file hamsat.password)
